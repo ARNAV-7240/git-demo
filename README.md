@@ -1,2 +1,2 @@
 # git-demo
-demo repo for github class
+demo repo for github class.
